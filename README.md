@@ -38,3 +38,7 @@ Para mostrar código, use três crases (```):
 ```python
 nome = "Jhoel"
 print(nome)
+
+#|\__/,|   (`\
+#   _.|o o  |_   ) )
+# -(((---(((--------
