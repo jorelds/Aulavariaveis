@@ -39,6 +39,4 @@ Para mostrar código, use três crases (```):
 nome = "Jhoel"
 print(nome)
 
-#|\__/,|   (`\
-#   _.|o o  |_   ) )
-# -(((---(((--------
+![Descrição do GIF](https://dribbble.com/shots/1635717-Logo-minimalist-animation)
