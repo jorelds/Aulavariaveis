@@ -39,4 +39,4 @@ Para mostrar código, use três crases (```):
 nome = "Jhoel"
 print(nome)
 
-![Descrição do GIF](https://dribbble.com/shots/1635717-Logo-minimalist-animation)
+![Animação Minimalista](http://googleusercontent.com/image_collection/image_retrieval/13880338194737000200_0)
