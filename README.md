@@ -1,3 +1,3 @@
 ﻿# Aulavariaveis
 
-##TESTE DE EDICAO
+#TESTE DE EDICAO
