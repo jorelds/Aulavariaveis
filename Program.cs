@@ -1,4 +1,4 @@
-﻿
+﻿//ALT + SHIFT + F = IDentaçao
 Console.WriteLine("Digite seu nome: ");
 string nome = Console.ReadLine();
 
