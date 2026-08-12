@@ -1,42 +1,31 @@
-﻿# Aula01: Variáveis
+﻿# Aula01 Variáveis
 
 ## Identificação
-- **Aluno:** [Jhoel]
-- **Matéria:** [DS2]
-- **Data:** [12/08/2026]
+- **Nome:** Jhoel 
+- **Matéria:** DS2
+- **Data:** 12/08/2026
 
 ---
 
-## Introdução
-Este projeto tem como objetivo introduzir o conceito de variáveis na programação. Abaixo, apresento um guia rápido sobre como utilizar a linguagem Markdown para documentar seus projetos.
+## Como usar este arquivo (.md)
 
----
+Este é um arquivo **Markdown**. O Markdown é uma linguagem de marcação leve que permite formatar textos de forma simples e rápida.
 
-## Guia de Formatação Markdown
+### Formatações Básicas
 
-O Markdown é uma linguagem de marcação leve muito utilizada no GitHub e em editores de código.
+*   **Negrito:** Use `**texto**` ou `__texto__`.
+*   *Itálico:* Use `*texto*` ou `_texto_`.
+*   [Link](https://www.google.com): Use `[Texto](url)`.
 
-### 1. Textos e Títulos
-Para títulos, usamos `#`:
-# Título Principal
-## Título Secundário
-### Título Terciário
+### Listas
+* Item 1
+* Item 2
+    * Sub-item
 
-Para **negrito** use `**texto**` e para *itálico* use `*texto*`.
+### Blocos de Código
+Para destacar códigos (como os da Aula 01 sobre variáveis), use três crases (```):
 
-### 2. Listas
-Para listas não ordenadas:
-- Item 1
-- Item 2
-
-Para listas ordenadas:
-1. Primeiro passo
-2. Segundo passo
-
-### 3. Blocos de Código
-Para mostrar código, use três crases (```):
 ```python
-nome = "Jhoel"
-print(nome)
-
-![Animação Minimalista](http://googleusercontent.com/image_collection/image_retrieval/13880338194737000200_0)
+# Exemplo de variável
+nome = "Exemplo"
+idade = 20
