@@ -29,3 +29,5 @@ Para destacar códigos (como os da Aula 01 sobre variáveis), use três crases (
 # Exemplo de variável
 nome = "Exemplo"
 idade = 20
+
+![Programando](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzR2b3l2eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JIX9t2j0ZTN9S/giphy.gif)
